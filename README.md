@@ -14,11 +14,13 @@ LLM Chat App is a chatbot application powered by the LangChain library and the O
 - Display the response from the question-answering chain, containing answers to the user's questions based on the PDF content.
 - Save and load functionality for the vector store to improve performance.
 
+## PDF Architecture
+
+![PDF Architecture](path/to/pdf/architecture/image.png)
+
 ## Flowchart
 
 ![Flowchart](path/to/flowchart/image.png)
-
-Please replace `path/to/flowchart/image.png` with the actual path to your flowchart image file. The flowchart can visually represent the steps involved in the chatbot's functionality.
 
 ## Getting Started
 
